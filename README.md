@@ -1,4 +1,1 @@
 # DirectProject
-
-hi
-sdfss
