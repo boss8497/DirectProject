@@ -6,4 +6,8 @@
 DirectProjectExe : 실행 폴더 
 
 
-Code : 코드 파일
+Code : DirectX 포트폴리오 코드 파일
+
+
+
+UnityTeamProjectScript : 유니티 팀 프로젝트 스크립트
